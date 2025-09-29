@@ -1,0 +1,20 @@
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.exe.config
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.exe
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.pdb
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\obj\x64\Debug\MappingService.csproj.AssemblyReference.cache
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\obj\x64\Debug\MappingService.csproj.CoreCompileInputs.cache
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\obj\x64\Debug\MappingS.C5EC6475.Up2Date
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\obj\x64\Debug\MappingService.exe
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\obj\x64\Debug\MappingService.pdb
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\bin\x64\Debug\MappingService.exe.config
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\bin\x64\Debug\MappingService.exe
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\bin\x64\Debug\MappingService.pdb
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\obj\x64\Debug\MappingService.csproj.AssemblyReference.cache
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\obj\x64\Debug\MappingService.csproj.CoreCompileInputs.cache
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\obj\x64\Debug\MappingS.C5EC6475.Up2Date
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\obj\x64\Debug\MappingService.exe
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\obj\x64\Debug\MappingService.pdb

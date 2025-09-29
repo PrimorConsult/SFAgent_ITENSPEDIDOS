@@ -1,0 +1,56 @@
+﻿Installing assembly 'C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.InstallLog
+Installing service MappingService...
+Service MappingService has been successfully installed.
+Creating EventLog source MappingService in log Application...
+Committing assembly 'C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.InstallLog
+Uninstalling assembly 'C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.InstallLog
+Removing EventLog source MappingService.
+Service MappingService is being removed from the system...
+Service MappingService was successfully removed from the system.
+Installing assembly 'C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.InstallLog
+Installing service MappingService - Condição de Pagamento...
+Service MappingService - Condição de Pagamento has been successfully installed.
+Creating EventLog source MappingService - Condição de Pagamento in log Application...
+Committing assembly 'C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\x64\Debug\MappingService.InstallLog
+Installing assembly 'C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\bin\x64\Debug\MappingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\bin\x64\Debug\MappingService.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\bin\x64\Debug\MappingService.InstallLog
+Installing service MappingService - Nota Fiscal...
+Service MappingService - Nota Fiscal has been successfully installed.
+Creating EventLog source MappingService - Nota Fiscal in log Application...
+Committing assembly 'C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\bin\x64\Debug\MappingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\bin\x64\Debug\MappingService.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\bin\x64\Debug\MappingService.InstallLog
+Uninstalling assembly 'C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\bin\x64\Debug\MappingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\bin\x64\Debug\MappingService.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento\MappingService - NF\MappingService\bin\x64\Debug\MappingService.InstallLog
+Removing EventLog source MappingService - Nota Fiscal.
+Service MappingService - Nota Fiscal is being removed from the system...
+Service MappingService - Nota Fiscal was successfully removed from the system.
+Attempt to stop service MappingService - Nota Fiscal.

@@ -1,0 +1,37 @@
+C:\Users\sps02\source\repos\MappingService\MappingService\bin\Debug\MappingService.exe.config
+C:\Users\sps02\source\repos\MappingService\MappingService\bin\Debug\MappingService.exe
+C:\Users\sps02\source\repos\MappingService\MappingService\bin\Debug\MappingService.pdb
+C:\Users\sps02\source\repos\MappingService\MappingService\obj\Debug\MappingService.csproj.AssemblyReference.cache
+C:\Users\sps02\source\repos\MappingService\MappingService\obj\Debug\MappingService.csproj.CoreCompileInputs.cache
+C:\Users\sps02\source\repos\MappingService\MappingService\obj\Debug\MappingService.exe
+C:\Users\sps02\source\repos\MappingService\MappingService\obj\Debug\MappingService.pdb
+C:\Users\Henrique Siqueira\Desktop\MappingServiceAPI\MappingService\bin\Debug\MappingService.exe.config
+C:\Users\Henrique Siqueira\Desktop\MappingServiceAPI\MappingService\bin\Debug\MappingService.exe
+C:\Users\Henrique Siqueira\Desktop\MappingServiceAPI\MappingService\bin\Debug\MappingService.pdb
+C:\Users\Henrique Siqueira\Desktop\MappingServiceAPI\MappingService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Henrique Siqueira\Desktop\MappingServiceAPI\MappingService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Henrique Siqueira\Desktop\MappingServiceAPI\MappingService\obj\Debug\MappingService.csproj.AssemblyReference.cache
+C:\Users\Henrique Siqueira\Desktop\MappingServiceAPI\MappingService\obj\Debug\MappingService.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Siqueira\Desktop\MappingServiceAPI\MappingService\obj\Debug\MappingS.C5EC6475.Up2Date
+C:\Users\Henrique Siqueira\Desktop\MappingServiceAPI\MappingService\obj\Debug\MappingService.exe
+C:\Users\Henrique Siqueira\Desktop\MappingServiceAPI\MappingService\obj\Debug\MappingService.pdb
+C:\Users\Henrique Siqueira\Desktop\MappingService\MappingService\bin\Debug\MappingService.exe.config
+C:\Users\Henrique Siqueira\Desktop\MappingService\MappingService\bin\Debug\MappingService.exe
+C:\Users\Henrique Siqueira\Desktop\MappingService\MappingService\bin\Debug\MappingService.pdb
+C:\Users\Henrique Siqueira\Desktop\MappingService\MappingService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Henrique Siqueira\Desktop\MappingService\MappingService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Henrique Siqueira\Desktop\MappingService\MappingService\obj\Debug\MappingService.csproj.AssemblyReference.cache
+C:\Users\Henrique Siqueira\Desktop\MappingService\MappingService\obj\Debug\MappingService.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Siqueira\Desktop\MappingService\MappingService\obj\Debug\MappingS.C5EC6475.Up2Date
+C:\Users\Henrique Siqueira\Desktop\MappingService\MappingService\obj\Debug\MappingService.exe
+C:\Users\Henrique Siqueira\Desktop\MappingService\MappingService\obj\Debug\MappingService.pdb
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\Debug\MappingService.exe.config
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\Debug\MappingService.exe
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\Debug\MappingService.pdb
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\obj\Debug\MappingService.csproj.AssemblyReference.cache
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\obj\Debug\MappingService.csproj.CoreCompileInputs.cache
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\obj\Debug\MappingS.C5EC6475.Up2Date
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\obj\Debug\MappingService.exe
+C:\Users\sps02\Desktop\Desenvolvimento\MappingService\MappingService\obj\Debug\MappingService.pdb

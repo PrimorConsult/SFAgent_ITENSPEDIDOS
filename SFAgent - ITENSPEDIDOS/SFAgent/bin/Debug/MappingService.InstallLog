@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\Users\sps02\source\repos\MappingService\MappingService\bin\Debug\MappingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sps02\source\repos\MappingService\MappingService\bin\Debug\MappingService.InstallLog
+   assemblypath = C:\Users\sps02\source\repos\MappingService\MappingService\bin\Debug\MappingService.exe
+Installing service MappingService...
+Service MappingService has been successfully installed.
+Creating EventLog source MappingService in log Application...
+Committing assembly 'C:\Users\sps02\source\repos\MappingService\MappingService\bin\Debug\MappingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sps02\source\repos\MappingService\MappingService\bin\Debug\MappingService.InstallLog
+   assemblypath = C:\Users\sps02\source\repos\MappingService\MappingService\bin\Debug\MappingService.exe
+Installing assembly 'C:\Users\Henrique Siqueira\Desktop\MappingService\MappingService\bin\Debug\MappingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Henrique Siqueira\Desktop\MappingService\MappingService\bin\Debug\MappingService.InstallLog
+   assemblypath = C:\Users\Henrique Siqueira\Desktop\MappingService\MappingService\bin\Debug\MappingService.exe
+Installing service MappingService...
+Service MappingService has been successfully installed.
+Creating EventLog source MappingService in log Application...
+Committing assembly 'C:\Users\Henrique Siqueira\Desktop\MappingService\MappingService\bin\Debug\MappingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Henrique Siqueira\Desktop\MappingService\MappingService\bin\Debug\MappingService.InstallLog
+   assemblypath = C:\Users\Henrique Siqueira\Desktop\MappingService\MappingService\bin\Debug\MappingService.exe

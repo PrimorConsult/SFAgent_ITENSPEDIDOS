@@ -1,0 +1,39 @@
+﻿Installing assembly 'C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - TITULOS\SFAgent\bin\x64\Debug\SFAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - TITULOS\SFAgent\bin\x64\Debug\SFAgent.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - TITULOS\SFAgent\bin\x64\Debug\SFAgent.InstallLog
+Installing service SFAgent - Títulos Financeiros...
+Service SFAgent - Títulos Financeiros has been successfully installed.
+Creating EventLog source SFAgent - Títulos Financeiros in log Application...
+Committing assembly 'C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - TITULOS\SFAgent\bin\x64\Debug\SFAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - TITULOS\SFAgent\bin\x64\Debug\SFAgent.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - TITULOS\SFAgent\bin\x64\Debug\SFAgent.InstallLog
+Installing assembly 'C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - PEDIDOS\SFAgent\bin\x64\Debug\SFAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - PEDIDOS\SFAgent\bin\x64\Debug\SFAgent.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - PEDIDOS\SFAgent\bin\x64\Debug\SFAgent.InstallLog
+Installing service SFAgent - Pedidos...
+Service SFAgent - Pedidos has been successfully installed.
+Creating EventLog source SFAgent - Pedidos in log Application...
+Committing assembly 'C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - PEDIDOS\SFAgent\bin\x64\Debug\SFAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - PEDIDOS\SFAgent\bin\x64\Debug\SFAgent.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - PEDIDOS\SFAgent\bin\x64\Debug\SFAgent.InstallLog
+Installing assembly 'C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - ITENSPEDIDOS\SFAgent\bin\x64\Debug\SFAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - ITENSPEDIDOS\SFAgent\bin\x64\Debug\SFAgent.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - ITENSPEDIDOS\SFAgent\bin\x64\Debug\SFAgent.InstallLog
+Installing service SFAgent - ItensPedidos...
+Service SFAgent - ItensPedidos has been successfully installed.
+Creating EventLog source SFAgent - ItensPedidos in log Application...
+Committing assembly 'C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - ITENSPEDIDOS\SFAgent\bin\x64\Debug\SFAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - ITENSPEDIDOS\SFAgent\bin\x64\Debug\SFAgent.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - ITENSPEDIDOS\SFAgent\bin\x64\Debug\SFAgent.InstallLog
